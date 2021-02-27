@@ -82,3 +82,9 @@ pre {
     border-bottom: 12px solid #0d121a;
     margin: 2% 5% 0 0;
 }
+.footer {
+    margin-top: 5%;
+}
+.footer p {
+    margin: 2% 0;
+}
