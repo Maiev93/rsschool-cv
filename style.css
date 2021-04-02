@@ -52,9 +52,14 @@ section {
 li {
     list-style-type: none;
 }
-pre {
-    font-size: 20px;
+.project {
+    font-size: 1rem;
     font-family: 'Courier New', Courier, monospace;
+}
+.project:hover {
+    background-color: rgb(46, 46, 46);
+    color: white;
+    box-shadow: 0px 0px 20px 5px #A0A0A0;
 }
 .date {
     text-transform: uppercase;
